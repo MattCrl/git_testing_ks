@@ -1,3 +1,3 @@
 def test
-  puts "hello world"
+  puts "hello world 2"
 end
